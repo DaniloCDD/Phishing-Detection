@@ -44,6 +44,9 @@ O desenvolvimento comparou o desempenho da modelagem em duas etapas estruturais:
 * **Danilo Campos Deichmann:** [Itens 5.4 a 5.6] Responsável pelo núcleo lógico e modelagem, executando a transformação dos dados, particionamento estratificado, construção do Pipeline (prevenção de vazamento) e busca de hiperparâmetros (GridSearchCV).
 * **José Marcos Bittencourt Oliveira Prado:** [Itens 5.7] Responsável pela inferência e diagnóstico final, interpretação da matriz de confusão e formulação técnica das limitações do modelo em produção.
 
+## 🎥 Vídeo de Apresentação
+[https://drive.google.com/file/d/1CXNy6AYo1u_JeLdwFMqipjIGEYzHv-Ww/view]
+
 ## 🤖 Declaração de Uso de Inteligência Artificial
 * **Ferramenta utilizada:** Modelos de Linguagem (LLMs).
 * **Finalidade:** Resolução de impasses técnicos e formatação estrutural da documentação.
